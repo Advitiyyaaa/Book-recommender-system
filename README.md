@@ -1,4 +1,4 @@
-Book Recommendation System
+Book Recommendation System-
 This repository contains a Book Recommendation System developed using Machine Learning and Collaborative Filtering techniques. It leverages a trained model to recommend books based on user preferences and uses Streamlit to provide a user-friendly web interface for generating recommendations.
 
 Project Overview
