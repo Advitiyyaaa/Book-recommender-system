@@ -7,7 +7,9 @@ The primary goal of this project is to create a recommendation engine that sugge
 Key Features
 Collaborative Filtering: Utilizes user-item interactions to recommend books with similar characteristics.
 Streamlit Web Application: A simple and interactive interface where users can input a book title and receive personalized recommendations.
+
 Setup Instructions
+
 Clone the Repository:
 git clone https://github.com/Advitiyyaaa/Book-recommender-system.git
 cd Book-recommender-system
