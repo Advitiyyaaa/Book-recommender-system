@@ -3,7 +3,7 @@ from setuptools import setup
 with open("README.md", "r", encoding="utf-8") as f:
     long_description = f.read()
 
-REPO_NAME = "Books-recommender-system"
+REPO_NAME = "Book-recommender-system"
 AUTHOR_USER_NAME = "Advitiyyyaa"
 SRC_REPO = "src"
 LIST_OF_REQUIREMENTS = ['streamlit', 'numpy','scikit-learn']
